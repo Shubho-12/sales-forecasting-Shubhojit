@@ -143,3 +143,9 @@ Add authentication and team dashboards
 
 
 Developed by Shubojit Dutta as a Machine Learning project for sales forecasting and business analytics use cases.
+
+ ![Image Alt](https://github.com/Shubho-12/sales-forecasting-Shubhojit/blob/cb92732f881c4957b67e840c7a8bbd928ad97dc0/sal_scr1.png)
+![Image Alt](https://github.com/Shubho-12/sales-forecasting-Shubhojit/blob/cb92732f881c4957b67e840c7a8bbd928ad97dc0/sal_scr2.png)
+![Image Alt](https://github.com/Shubho-12/sales-forecasting-Shubhojit/blob/cb92732f881c4957b67e840c7a8bbd928ad97dc0/sal_scr3.png)
+![Image Alt](https://github.com/Shubho-12/sales-forecasting-Shubhojit/blob/cb92732f881c4957b67e840c7a8bbd928ad97dc0/sal_scr4.png)
+ ![Image Alt](https://github.com/Shubho-12/sales-forecasting-Shubhojit/blob/cb92732f881c4957b67e840c7a8bbd928ad97dc0/sal_scr5.png)
